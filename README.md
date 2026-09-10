@@ -7,8 +7,8 @@ The main goal I want to achive is allow for people to access the site and leave 
 I have some features I want to start off with that will start from the bottom and work its way up. I also included additional features if I have time to create them.
 
 ### Main Features
-- [ ] Pink Background Color
-- [ ] Scrolling Background Multi-Colored Confetti
+- [X] Pink Background Color
+- [X] Scrolling Background Multi-Colored Confetti
 - [ ] Scrollable "Paper" Text In Middle
 - [ ] Pixel Evelope
 - [ ] Password Feature
